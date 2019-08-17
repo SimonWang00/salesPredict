@@ -27,3 +27,7 @@ python sales.py
 ### 预测效果测试
 <img src="./pictures/销量预测测试情况.png?raw=true"/>
 </br>
+
+### 线上预测效果
+<img src="./pictures/上线效果.png?raw=true"/>
+</br>
