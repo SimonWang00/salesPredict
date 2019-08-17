@@ -20,8 +20,8 @@ python sales.py
 
 ### 建模过程
 <img src="./pictures/销量时序图.png?raw=true"/> 
-<img src="./pictures/销量时序图.png?raw=true"/> 
-<img src="./pictures/销量时序图.png?raw=true"/>
+<img src="./pictures/一阶差分后，序列自相关情况.png?raw=true"/> 
+<img src="./pictures/一阶差分后，序列偏相关情况.png?raw=true"/>
 </br>
 
 ### 预测效果测试
